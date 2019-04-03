@@ -8,4 +8,5 @@ class Person
     name
   end
   
+  def name
 end
